@@ -1,0 +1,5 @@
+com\zeroone\ccstudentinfo\CcsStudentInfoRestProjectApplication.class
+com\zeroone\ccstudentinfo\StudentController.class
+com\zeroone\ccstudentinfo\Student.class
+com\zeroone\ccstudentinfo\StudentRepo.class
+com\zeroone\ccstudentinfo\StudentService.class
